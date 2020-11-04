@@ -2,6 +2,9 @@
 
 Application Optimization Techniques such as Linear Programming and Operation Research using Python.
 
+## Study Case:
+1. Bakery Optimization
+
 ___
 ### Library required:
 * [PuLP](https://coin-or.github.io/pulp/) 
